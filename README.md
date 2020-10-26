@@ -13,11 +13,11 @@
     Foram concluídas um total de 4 das 6 tarefas, com alguns gráficos ainda presentes na aplicação.
     Tarefas:
 </h4>
-<li>
-            <ul> 1 Upload de arquivos múltiplos </ul>
-            <ul> 2 Consumo da API; </ul>
-            <ul> 3 Implementação de Mapa amCharts; </ul>
-            <ul> 4 Ligar pontos no mapa amCharts; </ul>
-            <ul> 6 Gŕaficos 3 e 4; </ul>
-</li>
+<ul>
+            <li> 1 Upload de arquivos múltiplos; </li>
+            <li> 2 Consumo da API; </li>
+            <li> 3 Implementação de Mapa amCharts; </li>
+            <li> 4 Ligar pontos no mapa amCharts; </li>
+            <li> 6 Gŕaficos 3 e 4; </li>
+</ul>
 </h4>

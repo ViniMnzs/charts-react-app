@@ -14,10 +14,10 @@
     Tarefas:
 </h4>
 <ul>
-            <li> 1 Upload de arquivos múltiplos; </li>
-            <li> 2 Consumo da API; </li>
-            <li> 3 Implementação de Mapa amCharts; </li>
-            <li> 4 Ligar pontos no mapa amCharts; </li>
-            <li> 6 Gŕaficos 3 e 4; </li>
+            <li>  Upload de arquivos múltiplos; </li>
+            <li>  Consumo da API; </li>
+            <li>  Implementação de Mapa amCharts; </li>
+            <li>  Ligar pontos no mapa amCharts; </li>
+            <li>  Gŕaficos 3 e 4; </li>
 </ul>
 </h4>

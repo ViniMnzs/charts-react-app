@@ -5,6 +5,3 @@
     Após a instalação das dependências, utilize um dos comando para iniciar o projeto:
     "yarn start" ou "npm run start"
 </h4>
-<h4>
-    2. Caso o carregamento do mapa ou dos gráficos fique lento, basta clicar novamente no link ou recarregar a página.
-</h4>

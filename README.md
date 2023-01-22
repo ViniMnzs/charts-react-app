@@ -1,4 +1,3 @@
-<h1>Challenge frontend top-node</h1>
 <h4>
     Para rodar o projeto, basta abrir no terminal a pasta raiz do projeto e digitar "yarn install" ou "npm install"
 </h4>
